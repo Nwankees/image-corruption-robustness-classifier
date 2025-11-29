@@ -1,0 +1,59 @@
+# --- General Operating System Files ---
+# Thumbnails and system files
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.env
+*.env
+
+# --- Virtual Environment ---
+# Exclude the entire Python virtual environment folder
+.venv/
+
+# --- Dependencies and Packaging ---
+# Compiled python files
+__pycache__/
+*.pyc
+*.pyd
+*.so
+
+# Packages and dependency directories
+venv/
+.eggs/
+*.egg-info/
+dist/
+build/
+
+# --- PyCharm/IDE Specific Files ---
+.idea/
+
+# PyCharm workspace files
+*.iml
+
+# 1. Input Data:
+# The 'data' folder contains the large CIFAR-10 data that shouldn't be committed.
+data/
+
+# 2. Models:
+models/
+
+# 3. Logs/Outputs:
+# Logs, tensorboard files, and temporary outputs
+log/
+runs/
+*.log
+*.err
+
+# --- Python Specific Logs/Reports ---
+htmlcov/
+.tox/
+.mypy_cache/
+.pytest_cache/
+.coverage
+
+# --- Jupyter Notebook Specific Files (for sample.ipynb) ---
+# Checkpoint directories created by Jupyter
+.ipynb_checkpoints
+
+readme_maker.py
