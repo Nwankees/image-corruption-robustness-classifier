@@ -57,3 +57,5 @@ htmlcov/
 .ipynb_checkpoints
 
 readme_maker.py
+ImageCorruptionClassifier1.ipynb
+README1.md

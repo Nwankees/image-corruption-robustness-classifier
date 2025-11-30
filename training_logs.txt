@@ -1,0 +1,150 @@
+Epoch 1/10 | Train Loss: 0.2995, Train Acc: 0.8817 | Val Loss: 0.1597, Val Acc: 0.9421
+Per-corruption validation accuracy:
+   0 (          clean): 0.6941  (6941/10000)
+   1 ( gaussian_noise): 1.0000  (10000/10000)
+   2 (  gaussian_blur): 0.9846  (9846/10000)
+   3 (jpeg_compression): 1.0000  (10000/10000)
+   4 (     brightness): 0.8996  (8996/10000)
+   5 (       contrast): 0.9000  (9000/10000)
+   6 (            fog): 0.9919  (9919/10000)
+   7 (           snow): 0.9954  (9954/10000)
+   8 (  pixel_dropout): 0.9978  (9978/10000)
+   9 (    motion_blur): 0.9993  (9993/10000)
+  10 (   color_jitter): 0.8534  (8534/10000)
+  11 (      grayscale): 0.9893  (9893/10000)
+------------------------------------------------------------
+Epoch 2/10 | Train Loss: 0.1083, Train Acc: 0.9621 | Val Loss: 0.1070, Val Acc: 0.9638
+Per-corruption validation accuracy:
+   0 (          clean): 0.9359  (9359/10000)
+   1 ( gaussian_noise): 0.9999  (9999/10000)
+   2 (  gaussian_blur): 0.9840  (9840/10000)
+   3 (jpeg_compression): 0.9989  (9989/10000)
+   4 (     brightness): 0.9397  (9397/10000)
+   5 (       contrast): 0.9013  (9013/10000)
+   6 (            fog): 0.9996  (9996/10000)
+   7 (           snow): 0.9991  (9991/10000)
+   8 (  pixel_dropout): 0.9962  (9962/10000)
+   9 (    motion_blur): 0.9996  (9996/10000)
+  10 (   color_jitter): 0.8302  (8302/10000)
+  11 (      grayscale): 0.9809  (9809/10000)
+------------------------------------------------------------
+Epoch 3/10 | Train Loss: 0.0797, Train Acc: 0.9731 | Val Loss: 0.0713, Val Acc: 0.9764
+Per-corruption validation accuracy:
+   0 (          clean): 0.9137  (9137/10000)
+   1 ( gaussian_noise): 1.0000  (10000/10000)
+   2 (  gaussian_blur): 0.9966  (9966/10000)
+   3 (jpeg_compression): 1.0000  (10000/10000)
+   4 (     brightness): 0.9568  (9568/10000)
+   5 (       contrast): 0.9391  (9391/10000)
+   6 (            fog): 0.9967  (9967/10000)
+   7 (           snow): 0.9992  (9992/10000)
+   8 (  pixel_dropout): 0.9998  (9998/10000)
+   9 (    motion_blur): 0.9977  (9977/10000)
+  10 (   color_jitter): 0.9221  (9221/10000)
+  11 (      grayscale): 0.9955  (9955/10000)
+------------------------------------------------------------
+Epoch 4/10 | Train Loss: 0.0677, Train Acc: 0.9772 | Val Loss: 0.0649, Val Acc: 0.9783
+Per-corruption validation accuracy:
+   0 (          clean): 0.9554  (9554/10000)
+   1 ( gaussian_noise): 0.9997  (9997/10000)
+   2 (  gaussian_blur): 0.9972  (9972/10000)
+   3 (jpeg_compression): 0.9994  (9994/10000)
+   4 (     brightness): 0.9527  (9527/10000)
+   5 (       contrast): 0.9355  (9355/10000)
+   6 (            fog): 0.9999  (9999/10000)
+   7 (           snow): 0.9992  (9992/10000)
+   8 (  pixel_dropout): 0.9988  (9988/10000)
+   9 (    motion_blur): 0.9998  (9998/10000)
+  10 (   color_jitter): 0.9074  (9074/10000)
+  11 (      grayscale): 0.9951  (9951/10000)
+------------------------------------------------------------
+Epoch 5/10 | Train Loss: 0.0597, Train Acc: 0.9802 | Val Loss: 0.0852, Val Acc: 0.9711
+Per-corruption validation accuracy:
+   0 (          clean): 0.9477  (9477/10000)
+   1 ( gaussian_noise): 0.9852  (9852/10000)
+   2 (  gaussian_blur): 0.9918  (9918/10000)
+   3 (jpeg_compression): 0.9999  (9999/10000)
+   4 (     brightness): 0.9481  (9481/10000)
+   5 (       contrast): 0.9307  (9307/10000)
+   6 (            fog): 0.9949  (9949/10000)
+   7 (           snow): 0.9996  (9996/10000)
+   8 (  pixel_dropout): 0.9992  (9992/10000)
+   9 (    motion_blur): 1.0000  (10000/10000)
+  10 (   color_jitter): 0.8602  (8602/10000)
+  11 (      grayscale): 0.9954  (9954/10000)
+------------------------------------------------------------
+Epoch 6/10 | Train Loss: 0.0528, Train Acc: 0.9819 | Val Loss: 0.0687, Val Acc: 0.9780
+Per-corruption validation accuracy:
+   0 (          clean): 0.9608  (9608/10000)
+   1 ( gaussian_noise): 0.9999  (9999/10000)
+   2 (  gaussian_blur): 0.9989  (9989/10000)
+   3 (jpeg_compression): 0.9999  (9999/10000)
+   4 (     brightness): 0.9707  (9707/10000)
+   5 (       contrast): 0.9188  (9188/10000)
+   6 (            fog): 0.9994  (9994/10000)
+   7 (           snow): 0.9998  (9998/10000)
+   8 (  pixel_dropout): 0.9983  (9983/10000)
+   9 (    motion_blur): 0.9999  (9999/10000)
+  10 (   color_jitter): 0.8910  (8910/10000)
+  11 (      grayscale): 0.9982  (9982/10000)
+------------------------------------------------------------
+Epoch 7/10 | Train Loss: 0.0462, Train Acc: 0.9836 | Val Loss: 0.0657, Val Acc: 0.9790
+Per-corruption validation accuracy:
+   0 (          clean): 0.9645  (9645/10000)
+   1 ( gaussian_noise): 1.0000  (10000/10000)
+   2 (  gaussian_blur): 0.9977  (9977/10000)
+   3 (jpeg_compression): 0.9999  (9999/10000)
+   4 (     brightness): 0.9639  (9639/10000)
+   5 (       contrast): 0.9240  (9240/10000)
+   6 (            fog): 0.9998  (9998/10000)
+   7 (           snow): 0.9999  (9999/10000)
+   8 (  pixel_dropout): 0.9995  (9995/10000)
+   9 (    motion_blur): 1.0000  (10000/10000)
+  10 (   color_jitter): 0.9120  (9120/10000)
+  11 (      grayscale): 0.9873  (9873/10000)
+------------------------------------------------------------
+Epoch 8/10 | Train Loss: 0.0412, Train Acc: 0.9852 | Val Loss: 0.0582, Val Acc: 0.9826
+Per-corruption validation accuracy:
+   0 (          clean): 0.9398  (9398/10000)
+   1 ( gaussian_noise): 1.0000  (10000/10000)
+   2 (  gaussian_blur): 0.9988  (9988/10000)
+   3 (jpeg_compression): 1.0000  (10000/10000)
+   4 (     brightness): 0.9552  (9552/10000)
+   5 (       contrast): 0.9475  (9475/10000)
+   6 (            fog): 1.0000  (10000/10000)
+   7 (           snow): 1.0000  (10000/10000)
+   8 (  pixel_dropout): 0.9994  (9994/10000)
+   9 (    motion_blur): 1.0000  (10000/10000)
+  10 (   color_jitter): 0.9529  (9529/10000)
+  11 (      grayscale): 0.9973  (9973/10000)
+------------------------------------------------------------
+Epoch 9/10 | Train Loss: 0.0381, Train Acc: 0.9861 | Val Loss: 0.0926, Val Acc: 0.9729
+Per-corruption validation accuracy:
+   0 (          clean): 0.9661  (9661/10000)
+   1 ( gaussian_noise): 1.0000  (10000/10000)
+   2 (  gaussian_blur): 0.9960  (9960/10000)
+   3 (jpeg_compression): 1.0000  (10000/10000)
+   4 (     brightness): 0.9411  (9411/10000)
+   5 (       contrast): 0.8974  (8974/10000)
+   6 (            fog): 0.9999  (9999/10000)
+   7 (           snow): 0.9998  (9998/10000)
+   8 (  pixel_dropout): 0.9991  (9991/10000)
+   9 (    motion_blur): 0.9995  (9995/10000)
+  10 (   color_jitter): 0.8777  (8777/10000)
+  11 (      grayscale): 0.9988  (9988/10000)
+------------------------------------------------------------
+Epoch 10/10 | Train Loss: 0.0348, Train Acc: 0.9872 | Val Loss: 0.0754, Val Acc: 0.9811
+Per-corruption validation accuracy:
+   0 (          clean): 0.9537  (9537/10000)
+   1 ( gaussian_noise): 1.0000  (10000/10000)
+   2 (  gaussian_blur): 0.9981  (9981/10000)
+   3 (jpeg_compression): 1.0000  (10000/10000)
+   4 (     brightness): 0.9630  (9630/10000)
+   5 (       contrast): 0.9417  (9417/10000)
+   6 (            fog): 0.9996  (9996/10000)
+   7 (           snow): 0.9997  (9997/10000)
+   8 (  pixel_dropout): 0.9994  (9994/10000)
+   9 (    motion_blur): 0.9999  (9999/10000)
+  10 (   color_jitter): 0.9203  (9203/10000)
+  11 (      grayscale): 0.9977  (9977/10000)
+------------------------------------------------------------
